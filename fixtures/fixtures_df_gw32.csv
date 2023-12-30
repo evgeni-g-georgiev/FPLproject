@@ -1,0 +1,11 @@
+code,event,finished,finished_provisional,id,kickoff_time,minutes,provisional_start_time,started,team_a,team_a_score,team_h,team_h_score,stats,team_h_difficulty,team_a_difficulty,pulse_id
+2367848,32.0,False,False,311,2024-04-06T14:00:00Z,0,False,False,4,,2,,[],3,3,93631
+2367849,32.0,False,False,312,2024-04-06T14:00:00Z,0,False,False,1,,5,,[],4,3,93632
+2367850,32.0,False,False,313,2024-04-06T14:00:00Z,0,False,False,13,,8,,[],5,2,93633
+2367851,32.0,False,False,314,2024-04-06T14:00:00Z,0,False,False,6,,9,,[],2,2,93634
+2367852,32.0,False,False,315,2024-04-06T14:00:00Z,0,False,False,15,,10,,[],4,2,93635
+2367853,32.0,False,False,316,2024-04-06T14:00:00Z,0,False,False,3,,12,,[],2,2,93636
+2367854,32.0,False,False,317,2024-04-06T14:00:00Z,0,False,False,11,,14,,[],4,4,93637
+2367855,32.0,False,False,318,2024-04-06T14:00:00Z,0,False,False,7,,17,,[],3,2,93638
+2367856,32.0,False,False,319,2024-04-06T14:00:00Z,0,False,False,16,,18,,[],2,3,93639
+2367857,32.0,False,False,320,2024-04-06T14:00:00Z,0,False,False,19,,20,,[],2,2,93640
