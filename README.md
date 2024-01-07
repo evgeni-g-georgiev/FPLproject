@@ -1,4 +1,4 @@
-# Building a scouting tool for Fantasy Premier League managers to identify consistent performers 
+# Building a scouting tool for Fantasy Premier League managers to identify best players to buy depending on specific requirements
 
 ## This project builds several metrics to measure player consistency in FPL and utilises K-means clustering to build a scouting tool for managers. 
 
